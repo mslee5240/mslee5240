@@ -1,4 +1,4 @@
-### Hi there, I'm Minsoo 💛🧡💚💙💜🤎💖
+### Hello Everyone, I'm Minsoo 💛🧡💚💙💜🤎💖
 
 
 - 🦁 Likelion at SCH 9th member
