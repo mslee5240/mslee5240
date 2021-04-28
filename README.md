@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Python, HTML, CSS, !
 <img src="https://github.com/xion2664/icons/blob/main/python.svg" width="35px">  .  <img src="https://github.com/xion2664/icons/blob/main/html5.svg" width="40px">  .  <img src="https://github.com/xion2664/icons/blob/main/css3.svg" width="30px"> 
-
+- My Instagram: [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lemonade_soo/)](https://www.instagram.com/lemonade_soo/)
 #
 <!--
 **mslee5240/minsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My Instagram: [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lemonade_soo/)](https://www.instagram.com/lemonade_soo/)
+
