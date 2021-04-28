@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Minsoo 💛🧡💚💙💜🤎💖
 
+
+- 🦁 Likelion at SCH 9th member
+
+- 🌱 I’m currently learning Html, css, Python!
 <!--
-**mslee5240/mslee5240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mslee5240/minsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lemonade_soo/)](https://www.instagram.com/lemonade_soo/)
