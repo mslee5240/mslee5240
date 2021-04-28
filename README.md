@@ -4,8 +4,6 @@
 - 🦁 Likelion at SCH 9th member
 
 - 🌱 I’m currently learning HTML, CSS, Python!
-- *Tech Stack* 🔧
-
 <img src="https://github.com/xion2664/icons/blob/main/python.svg" width="35px">  .  <img src="https://github.com/xion2664/icons/blob/main/html5.svg" width="40px">  .  <img src="https://github.com/xion2664/icons/blob/main/css3.svg" width="30px"> 
 
 #
