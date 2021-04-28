@@ -3,7 +3,7 @@
 
 - 🦁 Likelion at SCH 9th member
 
-- 🌱 I’m currently learning Html, css, Python!
+- 🌱 I’m currently learning HTML, CSS, Python!
 <!--
 **mslee5240/minsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
