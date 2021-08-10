@@ -3,7 +3,7 @@
 
 - 🦁 Likelion at SCH 9th member
 
-- 🌱 I’m currently learning Python, HTML, CSS, !
+- 🌱 I’m currently learning Python, JS, CSS, HTML !
 
 
 #
