@@ -9,12 +9,7 @@
 **새로운 기술 학습과 문제 해결에 열정을 가지고 있습니다.**  
 단순 프로그래머가 아닌 진정한 엔지니어가 되기 위해 항상 노력합니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmslee5240&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
-
-## 🏆 Recent Achievement
-🥇 **한국외국어대학교 AI교육원 캡스톤설계 최우수상 (1위)** - 세관고시 분석 모니터링 시스템
 
 ## 🎓 Education & Current Status
 - **한국외국어대학교 컴퓨터공학과** 학사 졸업
@@ -33,6 +28,7 @@
 ![SPI](https://img.shields.io/badge/SPI-FF6F00?style=flat-square&logo=arduino&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=flat-square&logo=cisco&logoColor=white)
 ![OBD-II](https://img.shields.io/badge/OBD--II-FF4500?style=flat-square&logo=automotive&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-FF5722?style=flat-square&logo=automotive&logoColor=white)
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -40,20 +36,26 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6C37?style=flat-square&logo=xilinx&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 📟 Hardware & Platforms
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Basys3](https://img.shields.io/badge/Basys3-FF6C37?style=flat-square&logo=xilinx&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00C853?style=flat-square&logo=freertos&logoColor=white)
 
 ### ⚙️ Development Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IAR](https://img.shields.io/badge/IAR%20Embedded%20Workbench-0066CC?style=flat-square&logo=arm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+## 🏆 Recent Achievement
+🥇 **한국외국어대학교 AI교육원 캡스톤설계 최우수상 (1위)** - 세관고시 분석 모니터링 시스템
 
 ## 📊 GitHub Stats
 
@@ -83,9 +85,9 @@
 - **전자시계 구현** - FSM, FND Display
 
 ## 🏃‍♂️ Activities & Experience
-- **멋쟁이 사자처럼 대학 9기** - 풀스택 웹 개발
+- **네이버 소프트웨어야 놀자 대학생 멘토** - 초등학생 대상 AI SW교육 진행
+- **멋쟁이 사자처럼 대학 9기** - 풀스택 웹 개발, 해커톤 참가 및 알고리즘 스터디 진행
 - **SW 벤처 스타트업 아카데미** - AWS DeepRacer 머신러닝 (우수 수료생 장학금 200만원)
-- **네이버 소프트웨어야 놀자 대학생 멘토** - 초등학생 SW 교육
 
 ## 📫 How to reach me
 
