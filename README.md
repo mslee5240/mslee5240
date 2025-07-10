@@ -57,18 +57,6 @@
 ## 🏆 Recent Achievement
 🥇 **한국외국어대학교 AI교육원 캡스톤설계 최우수상 (1위)** - 세관고시 분석 모니터링 시스템
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mslee5240&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mslee5240&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mslee5240&theme=radical&hide_border=true)
-
-</div>
-
 ## 🚀 Featured Projects
 
 ### 🔧 Embedded Systems
