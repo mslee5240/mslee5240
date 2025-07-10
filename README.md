@@ -85,15 +85,12 @@
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/beccaria-)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mslee5240)
 
-**📞 010-5184-7346**
-
 </div>
 
 ---
 
 <div align="center">
   
-### 💡 "진정한 엔지니어가 되기 위해 항상 노력하고 있습니다"
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0)
 
