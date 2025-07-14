@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 임베디드 시스템 개발자 이민수입니다
+# Hi there! I'm Minsoo.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0)
 
