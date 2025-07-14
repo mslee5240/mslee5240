@@ -15,9 +15,9 @@
 ## 💻 Tech Stack
 
 ### 🌐 Protocols & Communication
-![UART](https://img.shields.io/badge/UART-FF6F00?style=flat-square&logo=arduino&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-FF6F00?style=flat-square&logo=arduino&logoColor=white)
+![UART](https://img.shields.io/badge/UART-FF6F00?style=flat-square&logo=arduino&logoColor=white)
 ![OBD-II](https://img.shields.io/badge/OBD--II-FF4500?style=flat-square&logo=automotive&logoColor=white)
 ![CAN](https://img.shields.io/badge/CAN-FF5722?style=flat-square&logo=automotive&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=flat-square&logo=cisco&logoColor=white)
