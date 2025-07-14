@@ -6,7 +6,7 @@
 ## 🎓 Education & Current Status
 - **한국외국어대학교 컴퓨터공학과** 학사 졸업
 - **AI 시스템반도체 SW개발자 과정** 수강중 (2025.02 ~ 2025.09)
-- **시스템 소프트웨어 개발자를 위한 Linux kernel: basic course (김동현) [Inflearn] 수강중 **
+- **시스템 소프트웨어 개발자를 위한 Linux kernel: basic course** 
 - **정보처리기사** / **리눅스마스터 2급**
 
 ## 🔬 Research
@@ -53,17 +53,24 @@
 ## 🚀 Featured Projects
 
 ### 🔧 Embedded Systems
-- **지능형 사이드 미러 프로젝트** - 77GHz Radar, CAN, STM32, Linux
-- **삐삐 프로젝트** - I2C Device Driver & TCP/IP & pthread
-- **ELEVATOR 구현** - FreeRTOS, SPI, Shift Register
-- **자율주행 자동차** - 초음파 센서, 모터 제어, PWM
+- **지능형 사이드 미러** - 77GHz Radar, CAN, STM32, Linux
+- **삐삐(무선호출기) 구현** - Linux Kernel Device Driver, TCP/IP 서버, pthread
+- **ELEVATOR 제어 시스템 구현** - STM32, FreeRTOS 기반
+- **Device Driver (BMP180, LCD1602)구현** - Bit-Banging 방식으로 I2C 프로토콜 및 Device Driver 구현
+- **초음파 센서 자율주행 자동차** - 베어메탈(AVR) 환경에서 함수포인터 기반 멀티태스킹 구현
 
-### 🌐 Web Development
-- **세관고시 분석 모니터링 시스템** - Flask 풀스택 개발 (캡스톤 최우수상)
+### Operating Systems
+- **xv6 커널 수정, 시스템 콜 및 CPU 스케쥴러 구현** - 운영체제 커널 프로그래밍 과제
 
 ### 💾 FPGA & Digital Design
+- **스마트 전자레인지 구현** - FPGA(BASYS3(, Verilog 기반 상태머신 및 PWM 제어
 - **자동판매기 구현** - FSM, Shift Register, FND Display
 - **전자시계 구현** - FSM, FND Display
+
+### 🌐 Web Development
+- **세관고시 분석 모니터링 시스템** - Flask 풀스택 개발, 웹 크롤링, NLP 기반 자동화 시스템
+
+
 
 ## 🏃‍♂️ Activities & Experience
 - **네이버 소프트웨어야 놀자 대학생 멘토** - 초등학생 대상 AI SW교육 진행
