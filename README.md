@@ -2,14 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0)
 
-<div align="center">
-  
-### 🚀 끊임없이 도전하고 성장하는 개발자
-
-**새로운 기술 학습과 문제 해결에 열정을 가지고 있습니다.**  
-단순 프로그래머가 아닌 진정한 엔지니어가 되기 위해 항상 노력합니다.
-
-</div>
 
 ## 🎓 Education & Current Status
 - **한국외국어대학교 컴퓨터공학과** 학사 졸업
